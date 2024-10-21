@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Pritam, a passionate developer with nearly five years of experience in cloud computing, full-stack development, and project leadership. Currently, I'm completing my Master's degree in Advanced Computer Science. Open to opportunities anywhere in the UK and eager to collaborate on meaningful projects. Let's build something amazing together!
+Full Stack Developer with 5 years of experience in Node.js, TypeScript, Angular, React, and AWS. Skilled in building scalable
+solutions and solving complex problems. Recently completed an M.Sc. in Advanced Computer Science from Swansea
+University.
 
 
 ## 🌐 Socials:
