@@ -1,7 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with 5 years of experience in Node.js, TypeScript, Angular, React, and AWS. Skilled in building scalable
-solutions and solving complex problems. Recently completed an M.Sc. in Advanced Computer Science from Swansea
-University.
+💻 Full Stack Developer | 🌐Java, Spring Boot, Node.js & React, Angular Specialist | 🚀 Cloud-Native & Microservices Architect | 🛠️ AWS, Kafka Expert | 📈 Building Scalable & Resilient Systems
 
 
 ## 🌐 Socials:
