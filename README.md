@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Developer | 🌐Java, Spring Boot, Node.js & React, Angular Specialist | 🚀 Cloud-Native & Microservices Architect | 🛠️ AWS, Kafka Expert | 📈 Building Scalable & Resilient Systems
+💻 Full Stack Developer |  Node.js, NestJs, 🌐Java, Spring Boot, React, Angular | 🚀 Cloud-Native & Microservices Architect | 🛠️ AWS, Kafka Expert | 📈 Building Scalable & Resilient Systems
 
 
 ## 🌐 Socials:
