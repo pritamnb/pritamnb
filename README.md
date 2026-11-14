@@ -45,4 +45,4 @@ Most of my professional work lives in private company repositories.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pritambhalerao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritambhalerao/)
 [![Website](https://img.shields.io/badge/Website-pritamnb.github.io-222?style=flat-square&logo=githubpages&logoColor=white)](https://pritamnb.github.io/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pritamleecode?theme=light&font=Inter&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pritamleecode?theme=light&font=Inter)
