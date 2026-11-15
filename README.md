@@ -33,6 +33,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**agent-huddle**](https://github.com/pritamnb/agent-huddle) | Always-on-top macOS widget that shows every running Claude Code, Codex and Cursor session, lets you approve prompts and answer questions, and jumps to the right window ([download](https://github.com/pritamnb/agent-huddle/releases/latest)) | Swift, SwiftUI, Python, Claude Code hooks |
+| [**wdlocks-frontend**](https://github.com/pritamnb/wdlocks-frontend) | Headless storefront for a UK locksmith supplies shop: Next.js frontend on a live WooCommerce backend, with a proxied basket and handoff to the existing checkout ([live demo](https://wdlocks-frontend.vercel.app)) | Next.js 16, React 19, TypeScript, Tailwind CSS, WooCommerce Store API, Vercel |
 | [**hybrid-search**](https://github.com/pritamnb/hybrid-search) | Hybrid search API: vector (semantic) + keyword search over magazine content, merged with Reciprocal Rank Fusion | TypeScript, Express, PostgreSQL + pgvector, Ollama embeddings, Docker |
 | [**birthday-campaign**](https://github.com/pritamnb/birthday-campaign) | Campaign service that emails personalised birthday discounts and shows recommended products during a user's birthday week | NestJS, TypeScript, MongoDB, Docker, Nodemailer |
 | [**DWP-Ticketing-System**](https://github.com/pritamnb/DWP-Ticketing-System) | Cinema ticket service handling ticket types, payments and seat reservations | Java 17, Spring Boot, Maven |
