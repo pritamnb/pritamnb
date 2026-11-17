@@ -42,6 +42,8 @@
 
 Most of my professional work lives in private company repositories.
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pritamnb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pritambhalerao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritambhalerao/)
