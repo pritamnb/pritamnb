@@ -37,12 +37,15 @@
 | [**wdlocks-frontend**](https://github.com/pritamnb/wdlocks-frontend) | Headless storefront for a UK locksmith supplies shop: Next.js frontend on a live WooCommerce backend, with a proxied basket and handoff to the existing checkout ([live demo](https://wdlocks-frontend.vercel.app)) | Next.js 16, React 19, TypeScript, Tailwind CSS, WooCommerce Store API, Vercel |
 | [**birthday-campaign**](https://github.com/pritamnb/birthday-campaign) | Campaign service that emails personalised birthday discounts and shows recommended products during a user's birthday week | NestJS, TypeScript, MongoDB, Docker, Nodemailer |
 | [**DWP-Ticketing-System**](https://github.com/pritamnb/DWP-Ticketing-System) | Cinema ticket service handling ticket types, payments and seat reservations | Java 17, Spring Boot, Maven |
-| [**learning_suite**](https://github.com/pritamnb/learning_suite_frontend) | Learning suite for SPARK Ada ([frontend](https://github.com/pritamnb/learning_suite_frontend) · [backend](https://github.com/pritamnb/learning_suite_backend)) | TypeScript, Node.js, Docker, GNAT |
+| [**learning_suite**](https://github.com/pritamnb/learning_suite_frontend) | Web app for learning Ada and SPARK: lessons beside a Monaco editor, with an API that compiles Ada and runs SPARK proofs ([frontend](https://github.com/pritamnb/learning_suite_frontend) · [backend](https://github.com/pritamnb/learning_suite_backend)) | TypeScript, Node.js, Docker, GNAT |
 | [**TTS**](https://github.com/pritamnb/TTS) | Transcript tagging system: upload SRT files, tag segments, manage tags ([backend](https://github.com/pritamnb/TTS_Backend)) | React, TypeScript, Spring Boot |
 
-Most of my professional work lives in private company repositories.
+Most of my 6+ years of production work is in private repositories at Cynomi and LTIMindtree.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pritamnb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+### 🌱 Open source
+
+- [platformatic/kafka #525](https://github.com/platformatic/kafka/pull/525): use `MaxTimestamp` for `LogAppendTime` batches and expose the timestamp type
+- [ollama/ollama-js #325](https://github.com/ollama/ollama-js/pull/325): declare `@types/node` as a dev dependency so the build works on npm 11
 
 ### 📫 Get in touch
 
